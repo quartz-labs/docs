@@ -1,8 +1,8 @@
 ---
-sidebar_position: 6
+slug: /audits
 ---
 
-# Audits
+# 🛡️ Audits
 
 Quartz only integrates with audited protocols.
 

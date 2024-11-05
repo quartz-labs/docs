@@ -1,14 +1,17 @@
 ---
-sidebar_position: 1
 slug: /
+title: 👋 Welcome to Quartz
 ---
+
+<div align="center">
+  <img width="2500" alt="Quartz" src="https://cdn.prod.website-files.com/65707af0f4af991289bbd432/670e37661cdb2314fe8ba469_logo-glow-banner.jpg" />
+</div>
 
 # 👋 Welcome to Quartz
 
-### 
+Spend your crypto's value, **without selling**.
 
-Spend your crypto's value **without selling it**.
-
+<br/>
 
 ## What is Quartz?
 

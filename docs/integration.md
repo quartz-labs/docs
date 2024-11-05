@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+slug: /integration
 ---
 
-# Integration
+# 🛠️ Integration
 
 Quartz is a public smart contract on Solana. You can interact with it using any Solana wallet.
 

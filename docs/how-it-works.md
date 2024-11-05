@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+slug: /how-it-works
 ---
 
-# How does it work?
+# 🔬 How does it work? 
 
 Quartz orchestrates user funds in order to minimize interest payments users have to pay on their loans. There are 6 actions can take place on Quartz: Deposit, Borrow, Withdraw, Off-ramp, Moving collateral & Repay. Quartz has been designed to minimize any need for user funds to sit in Quartz smart contracts.
 

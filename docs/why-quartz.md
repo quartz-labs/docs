@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+slug: /why-quartz
 ---
 
-# Why Quartz?
+# 💡 Why Quartz?
 
 ## Our Advantages
 
