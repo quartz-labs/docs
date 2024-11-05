@@ -1,41 +1,15 @@
-# Website
+<div align="center">
+  <img width="2500" alt="Quartz" src="https://cdn.prod.website-files.com/65707af0f4af991289bbd432/670e37661cdb2314fe8ba469_logo-glow-banner.jpg" />
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+  <h1 style="margin-top:20px;">Quartz Docs</h1>
+</div>
 
-### Installation
+This repository is Quartz's open-source docs. The main repository is available [here](https://github.com/quartz-labs/quartz-app).
 
-```
-$ yarn
-```
+## Links
 
-### Local Development
+Website and waitlist: [quartzpay.io](https://quartzpay.io/)
 
-```
-$ yarn start
-```
+X: [@quartzpay](https://x.com/quartzpay)
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Contact: [diego@quartzpay.io](mailto:diego@quartzpay.io)
