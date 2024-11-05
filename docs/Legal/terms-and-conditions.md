@@ -20,7 +20,7 @@ If at any time any of the provisions set forth in these terms and conditions are
 
 ## Privacy Policy
 
-The use of this website's forms involves the processing of personal data. To see how we handle your data, please view our [privacy policy](https://docs.quartzpay.io/privacy-policy).
+The use of this website's forms involves the processing of personal data. To see how we handle your data, please view our [privacy policy](./privacy-policy).
 
 ## Review of these terms and conditions
 
