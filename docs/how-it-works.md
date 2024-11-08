@@ -10,6 +10,10 @@ Quartz uses a smart contract on Solana to orchestrate user funds in order to min
 
 Deposits into Quartz are automatically routed to the protocols with the highest yield and lowest interest rate available at the time. Quartz periodically checks to see which rates are available across our integrated platforms and will move user deposits if better rates become available. Quartz can only move funds between platforms, it cannot withdraw deposits out of the platform without user authorization. Only the wallet that deposited the funds can withdraw them. Money flows directly from the user's wallet to the chosen protocol, it does not need to be held in the Quartz smart contract.
 
+<div align="center">
+  <img width="1200" alt="Diagram showing flow of funds for deposits and protocol movements" src="/img/figure1.jpg" />
+</div>
+
 ## Spend without selling
 
 When you want to off-ramp USD or withdraw USDC, Quartz doesn't sell your assets for USD/USDC. Instead, Quartz takes out a USDC DeFi loan using your deposits as collateral. DeFi loans are over-collateralized, meaning you must always have enough collateral deposited to cover the loan balance (plus some extra to cover price fluctuations). 
@@ -27,6 +31,10 @@ Before tapping your phone to pay, you first open the Quartz app and select the a
 When you spend with your card, Quartz will take out a USDC loan against your collateral if it has received authorization for the required amount. This USDC is settled directly with the card issuer to cover your purchase.
 
 While the Quartz protocol can be used by anyone permissionlessly, the card and bank transfers can only be used by users who pass KYC due to regulation.
+
+<div align="center">
+  <img width="1200" alt="Diagram showing flow of funds for authorizing self-custody card spending" src="/img/figure2.jpg" />
+</div>
 
 ## How do DeFi loans work?
 
