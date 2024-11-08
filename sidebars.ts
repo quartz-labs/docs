@@ -18,7 +18,7 @@ const sidebars: SidebarsConfig = {
     "why-quartz",
     "how-it-works",
     "integration",
-    "audits",
+    "security",
     {
       type: "category",
       label: "Community",
