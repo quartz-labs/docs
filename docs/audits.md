@@ -11,4 +11,4 @@ Here are the audits that have been completed for the protocols that Quartz integ
 - [Drift](https://docs.drift.trade/security/audits)
 - [MarginFi](https://docs.marginfi.com/mfi-v2#security)
 
-The Quartz program will be audited in due course.
+The Quartz smart contract itself will be audited in due course.

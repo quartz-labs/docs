@@ -25,3 +25,5 @@ Quartz aggregates lending providers across Solana DeFi to give you the best rate
 Unlike other lending providers, Quartz loans are protected from loan liquidations. If your loan's approaches the maximum withdraw value allowed, Quartz will automatically repay your loan using your collateral at market rate. This means you don't have to worry about paying the typical liquidation fee (usually 5% of the collateral).
 
 Your funds stay on-chain and in your custody at all times, so Quartz has no access to your funds without your authorization.
+
+Quartz is currently in private beta, join our early-access [Discord community](https://discord.gg/K3byNmnKNm) to learn more.
