@@ -8,7 +8,7 @@ Quartz uses a smart contract on Solana to orchestrate user funds in order to min
 
 ## Deposits
 
-Deposits into Quartz are automatically routed to the protocols with the highest yield and lowest interest rate available at the time. Quartz periodically checks to see which rates are available across our integrated platforms, and will move user deposits if better rates become available. Quartz can only move funds between platforms, it cannot withdraw deposits out of the platform without user authorization. Only the wallet that deposited the funds can withdraw them. Money flows directly from the user's wallet to the chosen protocol, it does not need to be held in the Quartz smart contract.
+Deposits into Quartz are automatically routed to the protocols with the highest yield and lowest interest rate available at the time. Quartz periodically checks to see which rates are available across our integrated platforms and will move user deposits if better rates become available. Quartz can only move funds between platforms, it cannot withdraw deposits out of the platform without user authorization. Only the wallet that deposited the funds can withdraw them. Money flows directly from the user's wallet to the chosen protocol, it does not need to be held in the Quartz smart contract.
 
 ## Spend without selling
 
@@ -16,11 +16,11 @@ When you want to off-ramp USD or withdraw USDC, Quartz doesn't sell your assets 
 
 If the value of your collateral goes up, you keep all the upside. If the value of your collateral drops close to the value of your loan, your loan is automatically repaid using your collateral at market rate. The balance shown in the Quartz app is the amount of funds you can actually spend, not the total collateral deposited (balance = collateral - loans). You can also view the details of your loans and collateral if you wish.
 
-Any USDC received is withdrawn directly into your wallet, and USD can be off-ramped directly with bank transfers or a self-custody debit card. If you decide to sell your assets in the future, you can consolodate it all into one transaction, instead of needing to sell your crypto every time you tap your card. But, if the value of your assets doesn't decrease, you'll never need to sell.
+Any USDC received is withdrawn directly into your wallet, and USD can be off-ramped directly with bank transfers or a self-custody debit card. If you decide to sell your assets in the future, you can consolidate it all into one transaction, instead of needing to sell your crypto every time you tap your card. But, if the value of your assets doesn't decrease, you'll never need to sell.
 
 ## Self-custody debit card
 
-The Quartz debit card is fully self-custody. This means that no one, not even Quartz, has no access to your balance until you authorize a transaction. The card debits from your regular Quartz balance, and you can deposit or withdraw whenever you want. The debit card is virtual, and can be used with Apple/Google Pay.
+The Quartz debit card is fully self-custody. This means that no one, not even Quartz, has access to your balance until you authorize a transaction. The card debits from your regular Quartz balance, and you can deposit or withdraw whenever you want. The debit card is virtual and can be used with Apple/Google Pay.
 
 Before tapping your phone to pay, you first open the Quartz app and select the amount of funds you want to pre-authorize for spending. This gives Quartz access to those funds should you use your crypto card. If you don’t use your card, or you cancel the authorization, Quartz loses access again. Your Quartz virtual debit card can be used for both in-person and online transactions. For online card transactions that support 3D Secure, no pre-authorization is needed as confirming the transaction authorizes funds to Quartz. For other online card transactions, spending requires the same authorization as in-person transactions.
 
@@ -34,7 +34,7 @@ We integrate with DeFi lending protocols across Solana. The assets you have depo
 
 This means that unlike with a fiat bank, DeFi protocols cannot lend out more money than they have received as deposits, and if users don't repay their loans their collateral is simply sold.
 
-The ratio of your collateral's value to your outstanding loans is describe in your account health. 100% account health means you have no outstanding loans. 0% account health means your collateral has reached the point where it no longer covers the loan, and will be sold.
+The ratio of your collateral's value to your outstanding loans is described by your account health. 100% account health means you have no outstanding loans. 0% account health means your collateral has reached the point where it no longer covers the loan, and will be sold.
 
 ## Account health notifications
 

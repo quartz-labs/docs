@@ -22,7 +22,7 @@ slug: /why-quartz
 
 Quartz users are provided with a self-custody debit card, which they can manage and spend with through the Quartz mobile app. The balance for this card is kept on crypto, and stored in the Quartz platform. Only the wallet that deposited the funds can withdraw or spend them, no one else has access to your balance (not even Quartz).
 
-When you want to spend with your debit card, you must first authorize the transaction in the Quartz app. This gives Quartz access to the specific amount of funds required to cover the transaction, and opens the virtual debit card to pay with. Quartz then takes out a DeFi loan against those funds, so you can spend their value without selling them.
+When you want to spend with your debit card, you must first authorize the transaction in the Quartz app. This gives Quartz access to the specific amount of funds required to cover the transaction and opens the virtual debit card to pay with. Quartz then takes out a DeFi loan against those funds, so you can spend their value without selling them.
 
 ### Aggregation
 
