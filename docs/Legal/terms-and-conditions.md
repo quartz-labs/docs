@@ -22,6 +22,15 @@ If at any time any of the provisions set forth in these terms and conditions are
 
 The use of this website's forms involves the processing of personal data. To see how we handle your data, please view our [privacy policy](./privacy-policy).
 
+## Third Party Integrations
+
+Our [web app](https://app.quartzpay.io/) or mobile app integrate with 3rd party DeFi protocols for lending and borrowing. By accepting these terms and conditions, you acknowledge that you have also read and accept the terms and conditions, privacy policies, and disclaimers where applicable of our integrations, listed here:
+
+- Drift: 
+    - [Terms and Conditions](https://docs.drift.trade/legal-and-regulations/terms-of-use)
+    - [Privacy Policy](https://docs.drift.trade/legal-and-regulations/privacy-policy)
+    - [Disclaimer](https://docs.drift.trade/legal-and-regulations/disclaimer)
+
 ## Review of these terms and conditions
 
-We may update these terms and conditions from time to time if necessary. We will notify you of any significant changes by email or by a notice on this website. These terms and conditions were last updated on August 14, 2024.
+We may update these terms and conditions from time to time if necessary. We will notify you of any significant changes by email or by a notice on this website. These terms and conditions were last updated on November 8, 2024.

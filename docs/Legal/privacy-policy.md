@@ -16,7 +16,7 @@ If you have any questions about how we process your personal data, including any
 
 When you fill out this website’s waitlist form, we ask you to provide your email address, country of residence, and first name.
 
-Occasionally, we may reach out to users or potential users through social media for research. If you agree to take part in this research, we will ask you questions and your answers will be recorded along with your social media username. These questions, and any information gathered from your answers, is used strictly for better understanding our users and improving our products and services for them.
+When you use our [web app](https://app.quartzpay.io/) or mobile app, we track functional data (such as error logs), and associate this data only with your connected crypto wallet address. This information is used strictly to improve our products and services, and is stored securely in the European Union.
 
 We may aggregate anonymous information such as statistical or demographic data for any purpose. Anonymous information is that which does not identify you as an individual. Aggregated information may be derived from your personal data but is not considered as such in law because it does not reveal your identity. We never collect personal information without your consent.
 
@@ -42,4 +42,4 @@ To contact us for any of the above reasons, please email [iarla@quartzpay.io](ma
 
 ## Review of this privacy policy
 
-We may update this privacy policy from time to time if necessary. We will notify you of any significant changes through the email you provided to us when joining the waitlist. This privacy policy was last updated on August 14, 2024.
+We may update this privacy policy from time to time if necessary. We will notify you of any significant changes. This privacy policy was last updated on November 8, 2024.
