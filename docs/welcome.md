@@ -26,4 +26,4 @@ Unlike other lending providers, Quartz loans are protected from loan liquidation
 
 Your funds stay on-chain and in your custody at all times, so Quartz has no access to your funds without your authorization.
 
-Quartz is currently in private beta, join our early-access [Discord community](https://discord.gg/K3byNmnKNm) to learn more.
+Quartz is currently in private beta, join our [waitlist](https://quartzpay.io/) to learn more about our early-access community.
