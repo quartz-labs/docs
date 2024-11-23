@@ -52,6 +52,8 @@ Simply message your wallet address to [@QuartzLTVBot](https://telegram.me/Quartz
 
 The Quartz account health notification bot is open-source, so you can run your own notification service by following the README in the [GitHub](https://github.com/quartz-labs/account-watcher).
 
-## Auto-repay
+## Auto-Repay
 
 If your account health drops to 0%, Quartz will automatically repay your loans by selling your collateral at market rate to avoid the usual liquidation fee of DeFi lending protocols (typically 5%). Quartz uses [Jupiter](https://jup.ag/) to swap your collateral for USDC, so you always get the best exchange rate.
+
+Auto-Repay instructions are executed by Auto-Repay bots, which monitor Quartz accounts and execute the instruction on any accounts that reach 0% health. The bot is open-source, so you can run your own instance (and keep any profits from differences in exchange rates) by following the README in the [GitHub](https://github.com/quartz-labs/auto-repay-bot).
