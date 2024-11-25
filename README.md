@@ -4,7 +4,7 @@
   <h1 style="margin-top:20px;">Quartz Docs</h1>
 </div>
 
-This repository is Quartz's open-source docs. The main repository is available [here](https://github.com/quartz-labs/quartz-app).
+This repository is Quartz's open-source docs. You can view the deployment [here](https://docs.quartzpay.io/).
 
 ## Links
 
