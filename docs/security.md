@@ -4,7 +4,7 @@ slug: /security
 
 # 🛡️ Security
 
-Quartz only integrates with open-source, audited protocols that are backed by reputable teams and investors. We monitor and put measures in place against all possible compromises, both within the Quartz smart contract and with our integrated protocols. User deposits are not stored in the Quartz smart contract and are instead deposited directly with integrated protocols, reducing the attack surface and risk.
+Quartz only integrates with open-source, audited protocols that are backed by reputable teams and investors. We monitor and put measures in place against all possible compromises, both within the Quartz smart contract and with our integrated protocols. User funds are not stored in the Quartz smart contract and are instead stored directly with integrated protocols, reducing the attack surface and risk.
 
 Here are the audits that have been completed for the protocols that Quartz integrates with:
 
