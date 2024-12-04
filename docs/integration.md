@@ -23,4 +23,6 @@ export const getVault = (owner: PublicKey) => {
 
 ## SDK
 
-SDK documentation coming soon...
+Our SDK is open-source and available [here](https://github.com/quartz-labs/sdk). SDK documentation will be coming soon. 
+
+Quartz bots and APIs are also open-source and available on our GitHub.
