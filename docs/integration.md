@@ -23,6 +23,12 @@ export const getVault = (owner: PublicKey) => {
 
 ## SDK
 
-Our SDK is open-source and available [here](https://github.com/quartz-labs/sdk). SDK documentation will be coming soon. 
+Our SDK is [open-source](https://github.com/quartz-labs/sdk) and can be installed by running:
+
+```bash
+npm install @quartz-labs/sdk
+```
+
+Auto-generated TS documentation is available [here](https://docs-sdk.quartzpay.io/). Detailed SDK documentation will be coming soon. 
 
 Quartz bots and APIs are also open-source and available on our GitHub.
