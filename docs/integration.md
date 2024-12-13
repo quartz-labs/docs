@@ -26,7 +26,7 @@ export const getVault = (owner: PublicKey) => {
 Our SDK is [open-source](https://github.com/quartz-labs/sdk) and can be installed by running:
 
 ```bash
-npm install @quartz-labs/sdk
+yarn add @quartz-labs/sdk
 ```
 
 Auto-generated TS documentation is available [here](https://docs-sdk.quartzpay.io/). Detailed SDK documentation will be coming soon. 
