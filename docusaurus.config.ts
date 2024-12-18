@@ -47,7 +47,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/social-card.jpg',
+    image: 'https://cdn.prod.website-files.com/67504dd7fde047775f88c355/67504dd7fde047775f88c404_open-graph.jpg',
     navbar: {
       title: 'Quartz',
       logo: {
