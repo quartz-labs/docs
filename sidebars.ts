@@ -56,7 +56,8 @@ const sidebars: SidebarsConfig = {
         "Legal/terms-and-conditions",
         "Legal/privacy-policy",
         "Legal/card-privacy-policy",
-        "Legal/glba"
+        "Legal/card-terms",
+        "Legal/glba",
       ],
     },
   ]
