@@ -9,6 +9,7 @@ Quartz only integrates with open-source, audited protocols that are backed by re
 Here are the audits that have been completed for the protocols that Quartz integrates with:
 
 - [Drift](https://docs.drift.trade/security/audits)
+- [Lulo](https://docs.lulo.fi/risks-and-audits)
 - [MarginFi](https://docs.marginfi.com/mfi-v2#security)
 
 The Quartz smart contract itself will be audited in due course.
