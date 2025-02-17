@@ -18,9 +18,9 @@ Spend your crypto's value, **without selling**.
 
 Quartz is a credit card that lets you spend the value of your crypto assets without selling them, all while your funds stay on-chain and within your custody.
 
-Instead of selling, Quartz takes out a DeFi loan to cover the transaction whenever you pay with your card. DeFi loans are an on-chain, overcollateralized line of credit secured by your crypto assets. With traditional crypto cards, you have to sell your investments for stablecoins or fiat in order to spend, but Quartz lets you stay holding. Since you don't sell, you keep all the gain if your assets go up in value.
+Instead of selling, Quartz takes out a DeFi loan to cover the transaction whenever you pay with your card. DeFi loans are an on-chain, overcollateralized line of credit secured by your crypto assets. With traditional crypto cards, you have to sell your investments for stablecoins or fiat in order to spend, but Quartz lets you stay holding. Since you don't sell, you keep all the gain if your assets increase in value.
 
-Quartz loans are protected from liquidation fees, unlike other DeFi lending providers which charge up to 10%. If your assets drop too low in value, they are automatically sold at market rate to pay off your loan. All deposit on Quartz earn the best available DeFi yield, powered by [Lulo](https://lulo.fi/) - which automatically routes your funds to the highest yield protocol at regular intervals.
+Quartz loans are protected from liquidation fees, unlike other DeFi lending providers which charge up to 10%. If your assets drop too low in value, they are automatically sold at market rate to pay off your loan. All funds added to your Quartz account earn the best available DeFi yield, powered by [Lulo](https://lulo.fi/) - which automatically routes your funds to the highest yield protocol at regular intervals.
 
 Your funds stay on-chain and in your custody at all times, so Quartz has no access to your funds without your authorization.
 

@@ -26,7 +26,7 @@ With traditional crypto cards, you need to sell your investments (like SOL, BTC)
 
 The Quartz card supports Apple/Google Pay, can be managed through the Quartz mobile app and website, and can be used anywhere Visa is accepted. The balance for this card is kept in crypto and stored in the Quartz protocol. Only the wallet that originally added the funds can withdraw or spend them, so no one else has access to your funds (not even Quartz).
 
-You can set daily, weekly, monthly, or yearly spend limits, which gives Quartz access to the specific amount of funds required to cover your transactions. Quartz then takes out a DeFi loan against those assets, so you can spend their value without selling them. You can learn more about how Quartz's DeFi loans work [here](./how-it-works).
+You can set daily, weekly, monthly, or yearly spending limits, which gives Quartz access to the specific amount of funds required to cover your transactions. Quartz then takes out a DeFi loan against those assets, so you can spend their value without selling them. You can learn more about how Quartz's DeFi loans work [here](./how-it-works).
 
 ### Yield
 
