@@ -7,27 +7,31 @@ slug: /why-quartz
 
 ## With Quartz, you get:
 
-- Self-custody debit card, without selling your assets
+- A self-custody DeFi credit card, without selling your assets
 
-- Highest available yield rate on all funds
+- Highest available yield on all funds
 
-- Lowest interest rate DeFi loans
+- No liquidation fees
 
-- No liquidation fees, and notifications when collateral is auto-repaid
+- Notifications to keep on top of spending, account balance, and when your collateral is sold
 
 
 ## Main Features
 
-### Self-Custody Debit Card
+### Spend without selling
 
-Quartz users are provided with a self-custody debit card, which they can manage and spend with through the Quartz mobile app and website. The balance for this card is kept in crypto, and stored in the Quartz platform. Only the wallet that originally added the funds can withdraw or spend them, no one else has access to your balance (not even Quartz).
+With traditional crypto cards, you need to sell your investments (like SOL, BTC) for fiat or stablecoins (like USDC, USDT) in order to spend. This means that if prices go up, you miss out on all the gains. With Quartz, you can stay holding your investments while spending their value through a secured line of credit. Since you don't sell any assets, you keep all the gains if your assets go up in price. And if prices fall, your collateral is automatically sold at market rate to avoid any liquidation fees.
 
-You can set daily, weekly, monthly, or yearly spend limits, which gives Quartz access to the specific amount of funds required to cover your transactions. Quartz then takes out a DeFi loan against those assets, so you can spend their value without selling them.
+### Self-Custody Credit Card
+
+The Quartz card supports Apple/Google Pay, can be managed through the Quartz mobile app and website, and can be used anywhere Visa is accepted. The balance for this card is kept in crypto and stored in the Quartz protocol. Only the wallet that originally added the funds can withdraw or spend them, so no one else has access to your funds (not even Quartz).
+
+You can set daily, weekly, monthly, or yearly spend limits, which gives Quartz access to the specific amount of funds required to cover your transactions. Quartz then takes out a DeFi loan against those assets, so you can spend their value without selling them. You can learn more about how Quartz's DeFi loans work [here](./how-it-works).
 
 ### Yield
 
 Through our [Lulo](https://lulo.fi/) integration, all funds are automatically routed to whichever DeFi protocol has the highest available yield. Any yield left over after paying the interest on outstanding loans is paid directly into your Quartz account. Quartz and Lulo are only able to move your funds between protocols, and can never withdraw them out of the platform without your authorization.
 
-### Auto-Repay
+### Liquidation Protection
 
-Each lending protocol has a liquidation threshold, which is the maximum loan amount you can take out against your collateral. If your loan reaches this threshold when taking out loans with lending protocols directly, your collateral will be liquidated and you'll pay a fee. With Quartz, however, your loan will automatically be repaid using your collateral at market rate if your account reaches 0% health. Because it is repaid before reaching the underlying protocol's threshold, you don't have to pay the typical liquidation fee (usually 5% of the collateral required to cover the loan).
+Other DeFi lending protocols require you to actively manage your loans and account health to avoid liquidation, but Quartz does things differently. The Quartz protocol automatically manages your account health for you and automatically sells your collateral at market rate if you approach the liquidation threshold to avoid any fees. You can learn more about liquidation protection and Quartz's DeFi loans [here](./how-it-works).

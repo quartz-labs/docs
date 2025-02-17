@@ -17,6 +17,7 @@ const sidebars: SidebarsConfig = {
     "welcome",
     "why-quartz",
     "how-it-works",
+    "faq",
     "integration",
     "security",
     {
