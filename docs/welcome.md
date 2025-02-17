@@ -5,7 +5,7 @@ custom_edit_url: null
 ---
 
 <div align="center">
-  <img width="2500" alt="Quartz" src="https://cdn.prod.website-files.com/65707af0f4af991289bbd432/670e37661cdb2314fe8ba469_logo-glow-banner.jpg" />
+  <img width="2500" alt="Quartz" src="https://cdn.prod.website-files.com/67504dd7fde047775f88c355/67b380029cf6f3d8e10349bf_docs_banner.jpg" />
 </div>
 
 # 👋 Welcome to Quartz
