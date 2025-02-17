@@ -18,6 +18,8 @@ This means that unlike with a fiat bank, DeFi protocols cannot lend out more mon
 
 With other DeFi protocols, this liquidation comes with a fee (usually up to 10%), but loans on Quartz are protected from liquidation by auto-repay. If the value of your collateral approaches the value of your loan (either by prices falling or interest accruing), it will automatically be sold at market rate to avoid any liquidation fees. Quartz uses [Jupiter](https://jup.ag/) to swap your collateral for USDC, which aggregates decentralized exchanges so you always get the best price. If you want to manually repay your loan, you can do so by depositing USDC or selling some of your collateral through the dashboard. But, if the value of your collatearl is always more than your loans, you'll never have to repay.
 
+Auto-repay is made possible through our open-source bots. You can run your instance to profit from differences in exchange rates by following the README in the [GitHub](https://github.com/quartz-labs/auto-repay-bot).
+
 ## Available Credit
 
 Other DeFi protocols also require you to manage your account health (a ratio of your collateral's value to your outstanding loans) in order to avoid liquidation, but Quartz handles all of this for you. On the dashboard you can see your available credit, which is the amount of money you can spend with your card through the secured line of credit. Since all loans are over-collateralized, this number is less than the total value of your collateral.
@@ -30,12 +32,12 @@ Since the assets you add to your account are added to the lending pool, they are
 
 ## Self Custody
 
-The Quartz protocol and credit card are fully self-custody. This means that no one, not even Quartz, has access to your balance until you authorize a transaction. In the app or website, you can set a spend limit that Quartz is authorized to use. This can be a daily, weekly, monthly, yearly, or all-time limit - which gives Quartz access to those funds should you use your crypto card, which can be used for both in-person and online transactions anywhere Visa is accepted. For online card transactions that support 3D Secure, no spend limit is needed as confirming the transaction authorizes Quartz to withdraw the required funds. This authorization is made possible through the Quartz protocol, which automically manages your funds and who has permission to use them. Your keys, your crypto.
+The Quartz protocol and credit card are fully self-custody. This means that no one, not even Quartz, has access to your balance until you authorize a transaction. In the app or website, you can set a spend limit that Quartz is authorized to use. This can be a daily, weekly, monthly, yearly, or all-time limit - which gives Quartz access to those funds should you use your crypto card, which can be used for both in-person and online transactions anywhere Visa is accepted. This authorization is made possible through the Quartz protocol, which automically manages your funds and who has permission to use them. Your keys, your crypto.
 
 ## Account Notifications
 
-Quartz provides a Telegram bot that can send you notifications whenever your available credit drops below a set amount. If your available credit drops to 0%, your loan will be auto-repaid by selling your collateral, so adding more assets or repaying some of the loan when you receive these notifications will avoid this. You can also receive notifications whenever a transaction is made with your Quartz card.
+Quartz provides a Telegram bot that can send you notifications whenever your available credit drops below a set amount. If your available credit drops to $0, your loan will be auto-repaid by selling your collateral, so adding more assets or repaying some of the loan when you receive these notifications will avoid this. You can also receive notifications whenever a transaction is made with your Quartz card.
 
 Simply message [@QuartzLTVBot](https://telegram.me/QuartzLTVBot) to start receiving notifications. You can set any threshold to be notified at, for any account you want, You'll be notified if an auto-repay occurs, including all the details of the collateral sale.
 
-The Quartz notification bot is open-source, so you can run your own notification service by following the README in the [GitHub](https://github.com/quartz-labs/account-watcher).
+The Quartz notification bot is open-source, so you can run your own notification service by following the README in the [GitHub](https://github.com/quartz-labs/notification-bot).

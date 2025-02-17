@@ -22,7 +22,7 @@ slug: /defi-lending
 
 | What's your pricing?
 | :-
-| Quartz takes a 25% fee on yield generated through the platform. We don't charge any spend, top-up, maintenance, or hidden fees. There is a 1.5% + $0.30 foreign exchange fee on non-USD card transactions.
+| Quartz currently takes no fees. We don't charge any spend, top-up, maintenance, or hidden fees. There is 1.5% + $0.30 foreign exchange fee on non-USD card transactions, which pass on from our card-issuing partner.
 
 | Is there KYC?
 | :-

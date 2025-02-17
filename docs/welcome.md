@@ -16,7 +16,7 @@ Spend your crypto's value, **without selling**.
 
 ## What is Quartz?
 
-Quartz is a DeFi protocol that lets you spend the value of your crypto assets without selling them through a self-custody credit card.
+Quartz is a credit card that lets you spend the value of your crypto assets without selling them, all while your funds stay on-chain and within your custody.
 
 Instead of selling, Quartz takes out a DeFi loan to cover the transaction whenever you pay with your card. DeFi loans are an on-chain, overcollateralized line of credit secured by your crypto assets. With traditional crypto cards, you have to sell your investments for stablecoins or fiat in order to spend, but Quartz lets you stay holding. Since you don't sell, you keep all the gain if your assets go up in value.
 
