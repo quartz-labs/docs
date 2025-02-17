@@ -1,4 +1,4 @@
---
+---
 slug: /
 title: 👋 Welcome to Quartz
 custom_edit_url: null
