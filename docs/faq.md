@@ -20,13 +20,17 @@ slug: /defi-lending
 | :-
 | Yes! We won 5th place in Payments for the Colosseum Radar hackathon, the largest hackathon in crypto history. We also won 3rd place in Mercuryo's "Best Consumer Use Cases" hackathon.
 
-| What's your pricing?
+| Who's on the team?
 | :-
-| Quartz currently takes no fees. We don't charge any spend, top-up, maintenance, or hidden fees. There is a 1.5% + $0.30 foreign exchange fee on non-USD card transactions, which we pass on from our card-issuing partner.
+| The team is currently [Diego Garcia](https://x.com/nelo_66), CEO and [Iarla Crewe](https://x.com/iarlacrewe/), COO. We're on a mission to bring about a financial future where everyone can grow their wealth, not just a select few. We're always open to a chat on X or in our [Discord](https://discord.gg/K3byNmnKNm), just send a DM!
 
 | Is there KYC?
 | :-
-| While the Quartz protocol can be used by anyone permissionlessly, regulation requires that the card is only used by users who pass KYC verification.
+| While the Quartz protocol can be used by anyone permissionlessly, regulation requires that the card is only available to users who pass KYC verification.
+
+| What's your pricing?
+| :-
+| Quartz currently takes no fees. We don't charge any spend, top-up, maintenance, or hidden fees. There is a 1.5% + $0.30 foreign exchange fee on non-USD card transactions, which we pass on from our card-issuing partner.
 
 | When is Quartz launching?
 | :-
