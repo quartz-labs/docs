@@ -31,6 +31,20 @@ Our [web app](https://app.quartzpay.io/) and mobile app integrate with 3rd party
     - [Privacy Policy](https://docs.drift.trade/legal-and-regulations/privacy-policy)
     - [Disclaimer](https://docs.drift.trade/legal-and-regulations/disclaimer)
 
+## Card Terms
+
+By applying for a Quartz Card and submitting KYC (Know Your Customer) information, you also agree to the following card terms:
+
+<iframe 
+  src="/pdfs/Quartz Card Terms.pdf" 
+  width="100%" 
+  height="800px"
+  style={{border: 'none', marginTop: '1rem'}}
+>
+  This browser does not support PDFs. Please download the PDF to view it: 
+  <a href="/pdfs/Quartz Card Terms.pdf">Download PDF</a>
+</iframe> 
+
 ## Review of these terms and conditions
 
-We may update these terms and conditions from time to time if necessary. We will notify you of any significant changes by email or by a notice on this website. These terms and conditions were last updated on November 8, 2024.
+We may update these terms and conditions from time to time if necessary. We will notify you of any significant changes by email or by a notice on this website. These terms and conditions were last updated on February 25, 2025.
