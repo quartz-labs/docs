@@ -20,6 +20,10 @@ While lending pools have insurance funds for this situation, a high rate of unse
 
 The Quartz smart contract and our integrated DeFi protocols rely on oracles to provide external data, like asset prices. While there are safety measures in place to protect against compromised/incorrect oracle data, it can still trigger unintended liquidations or other issues in the protocols.
 
+### 4. Regulatory Risk
+
+DeFi is a new concept, and the regulatory landscape surrounding it is evolving rapidly. There is a risk that new regulations could impact the crypto ecosystem, potentially affecting users access to certain applications of crypto assets. On-chain protocols reduce this risk (anyone can access the Quartz protocol permissionlessly), but regulation could affect application frontends and services.
+
 # Using Quartz
 
 Funds are not stored in the Quartz smart contract itself and are instead stored directly with integrated dApps, reducing the attack surface and risk. All the dApps we integrate are open source, audited, and backed by reputable teams and investors.
