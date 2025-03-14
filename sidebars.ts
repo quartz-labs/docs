@@ -20,6 +20,8 @@ const sidebars: SidebarsConfig = {
     "faq",
     "integration",
     "security",
+    "apple-pay",
+    "google-pay",
     {
       type: "category",
       label: "Community",
@@ -51,7 +53,7 @@ const sidebars: SidebarsConfig = {
       link: {
         type: 'generated-index',
       },
-      collapsed: false,
+      collapsed: true,
       items: [
         'Legal/risks',
         "Legal/terms-and-conditions",
