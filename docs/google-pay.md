@@ -6,6 +6,8 @@ sidebar_label: 💳 Google Pay
 
 # 💳 How to add your Quartz card to Google Pay
 
+[Using Apple Pay?](/apple-pay)
+
 ### In the Quartz web/mobile app:
 
 1. Click on the "Card" tab
