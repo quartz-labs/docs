@@ -5,7 +5,7 @@ slug: /e-sign-consent
 # E-Sign & Electronic Communications Notice
 
 Last updated:
-February 13, 2025
+March 14, 2025
 
 ### YOUR CONSENT TO ELECTRONIC DELIVERY
 
@@ -17,7 +17,7 @@ Your affirmative consent to this E-sign & Electronic Communications Notice (“C
 
 You have the right to receive legal disclosures, notices, and communications (together, the "Covered Items") in paper form by mail. We may instead provide these Covered Items to you electronically if you: give us your Consent to do so and satisfy the System Requirements below. For purposes of this Consent Statement, the Covered Items include all servicing and collection communications on your account, as well as all legal disclosures, notices and communications that Rain is required to provide in writing regarding the account.
 
-In this Consent Statement, “we,” “us,” and “our” refer to: Quartz Labs Limited and our service providers.
+In this Consent Statement, “we,” “us,” and “our” refer to: Genuine Technology Ltd, Inc. and our service providers.
 
 #### Duration of Consent
 
@@ -31,7 +31,7 @@ In this document, "provide" means to deliver, make available, send, notify or si
 
 You may make copies of the Covered Items by using the "print" or "save" functionality of the application in which you are viewing the Covered Items (e.g. Web browser, Adobe® Reader® software). We retain copies of the Covered Items for the time periods required by law and will provide you with copies upon request within those time periods. We do not necessarily retain copies for longer than is required by law. Save or print copies of Covered Items to ensure you have them when needed.
 
-You may request a paper copy at no cost of any Covered Item by emailing us at support@quartzpay.io.
+You may request a paper copy at no cost of any Covered Item by emailing us at [support@quartzpay.io](mailto:support@quartzpay.io).
 
 #### Our Right to Send Paper
 
@@ -53,7 +53,7 @@ You can download Adobe® Reader® by clicking [here](https://get.adobe.com/reade
 
 #### Withdrawing Consent
 
-You are free to withdraw Your Consent at any time and at no charge to you. If you do withdraw Your Consent prior to the approval of your application, this will prevent you from receiving credit from us over the Internet. If at any time you wish to withdraw Your Consent, you may do this by emailing us at support@quartzpay.io. If you decide to withdraw Your Consent, the legal effectiveness, validity and/or enforceability of any prior electronic Disclosures will not be affected.
+You are free to withdraw Your Consent at any time and at no charge to you. If you do withdraw Your Consent prior to the approval of your application, this will prevent you from receiving credit from us over the Internet. If at any time you wish to withdraw Your Consent, you may do this by emailing us at [support@quartzpay.io](mailto:support@quartzpay.io). If you decide to withdraw Your Consent, the legal effectiveness, validity and/or enforceability of any prior electronic Disclosures will not be affected.
 
 #### Acknowledging Ability to Access and Consenting to Electronic Communications.
 

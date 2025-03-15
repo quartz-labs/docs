@@ -4,15 +4,15 @@ slug: /terms-and-conditions
 
 # Terms and Conditions
 
-These terms and conditions govern the use of this website. By using this website, you indicate that you have read and understand these terms and conditions and agree to abide by them at all times. These terms and conditions are governed by the laws of Ireland. If you have any questions regarding these terms and conditions please contact [iarla@quartzpay.io](mailto:iarla@quartzpay.io)
+These terms and conditions govern the use of the Quartz website, and all Quartz products and services (collectively referred to as "services"). By using these services, you indicate that you have read and understand these terms and conditions and agree to abide by them at all times. If you have any questions regarding these terms and conditions please contact [support@quartzpay.io](mailto:support@quartzpay.io)
 
 ## Intellectual Property
 
-All content published and made available on this website is the property of Quartz Labs Limited.
+All content published and made available through the services or social media channels is the property of Quartz Labs Limited.
 
 ## Age Restriction
 
-This website, and the products and services of Quartz, are intended for those over the age of 18. By using this website, users agree not to submit any information to its forms if they are under the age of 18.
+All services are intended for those over the age of 18. Users must agree not to submit any information if they are under the age of 18.
 
 ## Severability
 
@@ -20,7 +20,7 @@ If at any time any of the provisions set forth in these terms and conditions are
 
 ## Privacy Policy
 
-The use of this website's forms involves the processing of personal data. To see how we handle your data, please view our [privacy policy](./privacy-policy).
+The use Quartz services involves the processing of personal data. To see how we handle your data, please view our [privacy policy](./privacy-policy).
 
 ## Third Party Integrations
 
@@ -33,18 +33,11 @@ Our [web app](https://app.quartzpay.io/) and mobile app integrate with 3rd party
 
 ## Card Terms
 
-By applying for a Quartz Card and submitting KYC (Know Your Customer) information, you also agree to the following card terms:
+By applying for a Quartz Card and submitting KYC (Know Your Customer) information, you also agree to the Quartz card terms.
 
-<iframe 
-  src="/pdfs/Quartz Card Terms.pdf" 
-  width="100%" 
-  height="800px"
-  style={{border: 'none', marginTop: '1rem'}}
->
-  This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="/pdfs/Quartz Card Terms.pdf">Download PDF</a>
-</iframe> 
+- For US citizens, the following card terms apply: <a href="/pdfs/card-terms-us.pdf" target="_blank" rel="noopener noreferrer">US Card Terms</a>
+- For all other users, the following card terms apply: <a href="/pdfs/card-terms-international.pdf" target="_blank" rel="noopener noreferrer">International Card Terms</a>
 
-## Review of these terms and conditions
+## Review of these terms and conditions 
 
-We may update these terms and conditions from time to time if necessary. We will notify you of any significant changes by email or by a notice on this website. These terms and conditions were last updated on February 25, 2025.
+We may update these terms and conditions from time to time if necessary. We will notify you of any significant changes by email or by a notice on this website. These terms and conditions were last updated on March 14, 2025.
