@@ -57,7 +57,7 @@ const config: Config = {
       },
       items: [
         {
-          href: 'https://github.com/quartz-labs/quartz-app',
+          href: 'https://github.com/quartz-labs/',
           label: 'GitHub',
           position: 'right',
         },
