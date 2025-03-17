@@ -6,6 +6,10 @@ slug: /terms-and-conditions
 
 These terms and conditions govern the use of the Quartz website, and all Quartz products and services (collectively referred to as "services"). By using these services, you indicate that you have read and understand these terms and conditions and agree to abide by them at all times. If you have any questions regarding these terms and conditions please contact [support@quartzpay.io](mailto:support@quartzpay.io)
 
+## Smart Contracts & Risks
+
+The Quartz services are made possible through the use of on-chain smart contracts and DeFi protocols on the blockchain. There are risks associated with using any smart contract, and by accepting these terms and conditions you indicate that you have read and understood the Quartz protocol risk disclaimer here: [Risk Disclaimer](/.risks)
+
 ## Intellectual Property
 
 All content published and made available through the services or social media channels is the property of Quartz Labs Limited.
