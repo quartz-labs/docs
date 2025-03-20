@@ -8,7 +8,7 @@ These terms and conditions govern the use of the Quartz website, and all Quartz 
 
 ## Smart Contracts & Risks
 
-The Quartz services are made possible through the use of on-chain smart contracts and DeFi protocols on the blockchain. There are risks associated with using any smart contract, and by accepting these terms and conditions you indicate that you have read and understood the Quartz protocol risk disclaimer here: [Risk Disclaimer](./risks)
+The Quartz services are made possible through the use of on-chain smart contracts and DeFi protocols on the blockchain. There are risks associated with using any smart contract, and by accepting these terms and conditions you indicate that you have read and understood the Quartz protocol risk disclaimer here: [Risk Disclaimer](./risks).
 
 ## Intellectual Property
 
